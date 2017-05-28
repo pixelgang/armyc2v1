@@ -22,7 +22,7 @@
 	<gap:config-file platform="android" parent="/manifest" mode="delete"> <uses-permission android:name="android.permission.INTERNET"/> </gap:config-file>
 
 	<preference name="deployment-target" value="8.0" />
-	<preference name="android-minSdkVersion" value="14" />
+	<preference name="android-minSdkVersion" value="16" />
 	<plugin name="cordova-plugin-crosswalk-webview" source="npm" />
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.1" source="git" />
 	<plugin name="https://github.com/cranberrygame/cordova-plugin-ad-admob" source="npm" />
