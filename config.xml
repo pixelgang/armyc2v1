@@ -7,6 +7,9 @@
 
 	<icon src="icon-128.png" width="128" height="128" />
 	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
+	<icon src="Icon-76@2x.png" gap:platform="ios" width="152" height="152" />
+	<icon src="Icon-76.png" gap:platform="ios" width="76" height="76" />
+	<icon src="Icon-60@2x.png" gap:platform="ios" width="120" height="120" />
 
 	<preference name="permissions" value="none"/>
 	<preference name="android-targetSdkVersion" value="21" />
